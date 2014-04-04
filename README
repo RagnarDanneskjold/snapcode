@@ -1,9 +1,9 @@
-JavaScript QRCode reader for HTML5 enabled browser.
-2011 Lazar Laszlo  http://lazarsoft.info
+SnapCode
+Html5 or sharing images, files, etc with RSA encrypted QR codes
 
-Try it online: http://webqr.com
+This is a port of http://webqr.com
 
-This is a port of ZXing qrcode scanner, http://code.google.com/p/zxing.
+Wich is a port of ZXing qrcode scanner, http://code.google.com/p/zxing.
 
 Usage:
 
